@@ -1,0 +1,26 @@
+.proj{
+    background-color: #1d1d1d;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.hov:hover{
+    
+    transform: scale(1.5)
+}
+
+.hov{
+    transition: transform .2s;
+}
+a:link{
+    color:inherit;
+    color:#ffffff;
+}
+a:visited {
+    color:#ffffff;
+    background-color:#ffffff;}
