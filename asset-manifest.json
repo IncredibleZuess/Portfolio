@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IncredibleZuess/Portfolio/static/css/main.9ba7f7f3.chunk.css",
+    "main.js": "/IncredibleZuess/Portfolio/static/js/main.d6e5ac7a.chunk.js",
+    "main.js.map": "/IncredibleZuess/Portfolio/static/js/main.d6e5ac7a.chunk.js.map",
+    "runtime-main.js": "/IncredibleZuess/Portfolio/static/js/runtime-main.f3c4b0b5.js",
+    "runtime-main.js.map": "/IncredibleZuess/Portfolio/static/js/runtime-main.f3c4b0b5.js.map",
+    "static/js/2.5fcd6229.chunk.js": "/IncredibleZuess/Portfolio/static/js/2.5fcd6229.chunk.js",
+    "static/js/2.5fcd6229.chunk.js.map": "/IncredibleZuess/Portfolio/static/js/2.5fcd6229.chunk.js.map",
+    "static/js/3.ae32fd3f.chunk.js": "/IncredibleZuess/Portfolio/static/js/3.ae32fd3f.chunk.js",
+    "static/js/3.ae32fd3f.chunk.js.map": "/IncredibleZuess/Portfolio/static/js/3.ae32fd3f.chunk.js.map",
+    "index.html": "/IncredibleZuess/Portfolio/index.html",
+    "static/css/main.9ba7f7f3.chunk.css.map": "/IncredibleZuess/Portfolio/static/css/main.9ba7f7f3.chunk.css.map",
+    "static/js/2.5fcd6229.chunk.js.LICENSE.txt": "/IncredibleZuess/Portfolio/static/js/2.5fcd6229.chunk.js.LICENSE.txt",
+    "static/media/gif9.32113acb.gif": "/IncredibleZuess/Portfolio/static/media/gif9.32113acb.gif",
+    "static/media/logo.6ce24c58.svg": "/IncredibleZuess/Portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c4b0b5.js",
+    "static/js/2.5fcd6229.chunk.js",
+    "static/css/main.9ba7f7f3.chunk.css",
+    "static/js/main.d6e5ac7a.chunk.js"
+  ]
+}
